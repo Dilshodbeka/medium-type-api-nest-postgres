@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "[typescript]": {
+    "editor.formatOnSave": true
+}
+}
